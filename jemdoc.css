@@ -437,6 +437,14 @@ foot11
     border: none;
 }
 
+.profile-name-cn {
+    display: inline-block;
+    margin-left: 0.25em;
+    font-family: "Kaiti SC", "STKaiti", "KaiTi", "楷体", "BiauKai", serif;
+    font-weight: normal;
+    white-space: nowrap;
+}
+
 .profile-info p {
     margin-bottom: 0.6rem;
 }
