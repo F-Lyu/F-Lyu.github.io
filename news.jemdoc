@@ -1,4 +1,25 @@
 
-= \n Feng Lyu - Recent NEWs\n
+= \n Feng Lyu - News\n
 
-- To be add.
+# Temporary News dates use online publication dates, not confirmed acceptance dates. Exploring Cellular uses the Feb. 2026 issue month as a fallback.
+# Characterizing and Mitigating Imbalanced Reclaim in MGLRU | 2026-11-14 | online | https://api.crossref.org/works/10.1145/3828523.3857058
+# MetaNav: | 2026-11-09 | online | https://api.crossref.org/works/10.1145/3767308.3835445
+# A3TP: | 2026-10-26 | online | https://api.crossref.org/works/10.1145/3795866.3796694
+# Scaling LLMs via Collaboration: | 2026-09-11 | online | https://ieeexplore.ieee.org/abstract/document/11686281/
+# KAT: | 2026-06-29 | online | https://ieeexplore.ieee.org/abstract/document/11571301
+# U-Mesh+: | 2026-02-12 | online | https://ieeexplore.ieee.org/abstract/document/11395342/authors
+# Exploring Cellular User Re-Identification Risks | 2026-02 | issue-month fallback; online month unverified | https://api.crossref.org/works/10.1109/TMC.2025.3607772
+# Game in Motion: | 2025-12-18 | online | https://ieeexplore.ieee.org/document/11303971/
+# Auto-UIT: | 2025-11-21 | online | https://api.crossref.org/works/10.1145/3680207.3765244
+# H2O: Heterogeneity-Aware Hierarchical Orchestration | 2025-11-03 | online | https://ieeexplore.ieee.org/document/11224632/
+
+- {{Nov. 2026 - Our paper, &quot;A<sup>2</sup>: Characterizing and Mitigating Imbalanced Reclaim in MGLRU via Active Aging at Production Scale&quot;, was accepted by <em>ACM SIGOPS ATC 2026</em>. Congratulations to Fei!}}
+- {{Nov. 2026 - Our paper, &quot;MetaNav: Metacognitive Vision-Language Navigation via Reflective Exploration&quot;, was accepted by <em>ACM MM 2026</em>. Congratulations to Xueying!}}
+- {{Oct. 2026 - Our paper, &quot;A3TP: Automated, Accurate, and Adaptive UAV Task Planning for Power Transmission Networks Inspection&quot;, was accepted by <em>ACM MobiCom 2026</em>. Congratulations to Qiyong!}}
+- {{Sep. 2026 - Our paper, &quot;Scaling LLMs via Collaboration: Efficient LLM Inference Across Resource-Constrained Devices&quot;, was accepted by <em>IEEE Transactions on Mobile Computing</em>. Congratulations to Fei!}}
+- {{June 2026 - Our paper, &quot;KAT: Knowledge-Context Augmentation for Evolving LLM-Based Telecom Troubleshooting&quot;, was accepted by <em>IEEE INFOCOM 2026</em>. Congratulations to Kai!}}
+- {{Feb. 2026 - Our paper, &quot;U-Mesh+: Terrain-Aware, Robust, and Cost-Efficient UAV-Mesh Network Deployment for Inspection Tasks in Remote Areas&quot;, was accepted by <em>IEEE Transactions on Networking</em>. Congratulations to Jieyu!}}
+- {{Feb. 2026 - Our paper, &quot;Exploring Cellular User Re-Identification Risks with Networking Behaviors Analysis and Modeling&quot;, was accepted by <em>IEEE Transactions on Mobile Computing</em>. Congratulations to Sijing!}}
+- {{Dec. 2025 - Our paper, &quot;Game in Motion: Heterogeneous Task Offloading in Dynamic Vehicular Edge Computing&quot;, was accepted by <em>IEEE Transactions on Networking</em>. Congratulations to Jie!}}
+- {{Nov. 2025 - Our paper, &quot;Auto-UIT: Automating UAV Inspection Trajectory by Recognizing Pylon Structure from 3D Point Cloud&quot;, was accepted by <em>ACM MobiCom 2025</em>. Congratulations to Lijuan!}}
+- {{Nov. 2025 - Our paper, &quot;H2O: Heterogeneity-Aware Hierarchical Orchestration for Memory-Efficient on-Device LLM Inference&quot;, was accepted by <em>IEEE Transactions on Mobile Computing</em>. Congratulations to Fei!}}
