@@ -409,6 +409,7 @@ foot11
 
 .profile-portrait {
     justify-self: center;
+    align-self: start;
 }
 
 .profile-portrait a {
@@ -437,11 +438,21 @@ foot11
     border: none;
 }
 
+/* Ma Shan Zheng, subset to 吕丰. License: assets/fonts/MaShanZheng-OFL.txt. */
+@font-face {
+    font-family: "Feng Lyu Brush";
+    src: url("assets/fonts/feng-lyu-brush.woff") format("woff");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    unicode-range: U+4E30, U+5415;
+}
+
 .profile-name-cn {
     display: inline-block;
     margin-left: 0.25em;
-    font-family: "Kaiti SC", "STKaiti", "KaiTi", "楷体", "BiauKai", serif;
-    font-weight: normal;
+    font-family: "Feng Lyu Brush", "STXingkai", "Xingkai SC", "Kaiti SC", serif;
+    font-weight: 700;
     white-space: nowrap;
 }
 
