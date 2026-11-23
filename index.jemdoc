@@ -1,18 +1,20 @@
-# jemdoc: nodefaultcss, addcss{jemdoc.css?v=6a5a462a6d96}, title{Welcome to Feng Lyu's Homepage}
-
-= \n Dr. Feng Lyu\n
+# jemdoc: nodefaultcss, addcss{jemdoc.css?v=977bde940535}, title{Welcome to Feng Lyu's Homepage}
 
 ~~~
-{}{img_left}{photo.jpg}{alt text}{142px}{200px}{photo.jpg}
-
-Full Professor
-
-[https://cse.csu.edu.cn/ School of Computer Science and Engineering], [https://www.csu.edu.cn/ Central South University] \n
-
-Shenghua Building 404, No. 932 Lushan South Road, Yuelu District, Changsha, Hunan, 410083, P. R. China \n
-Cell Phone: (\+86) 150-2112-3526 \n
-Office:     (\+86) 731-88877881 \n
-Email:      [mailto:fenglyu@csu.edu.cn fenglyu@csu.edu.cn]\n
+{}{raw}
+<div class="profile-header">
+<div class="profile-portrait">
+<a href="photo.jpg"><img src="photo.jpg" alt="Dr. Feng Lyu" width="142" height="200" /></a>
+</div>
+<div class="profile-info">
+<h1>Dr. Feng Lyu</h1>
+<p class="profile-position">Full Professor</p>
+<p><a href="https://cse.csu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.csu.edu.cn/">Central South University</a><br />
+End-Edge-Cloud Intelligent Computing Lab</p>
+<p>Shenghua Building 404, No. 932 Lushan South Road, Yuelu District, Changsha, Hunan, 410083, P. R. China</p>
+<p>Email: <a href="mailto:fenglyu@csu.edu.cn">fenglyu@csu.edu.cn</a></p>
+</div>
+</div>
 ~~~
 
 == News

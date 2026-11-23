@@ -397,3 +397,64 @@ foot11
 	padding-right:50px;
 	padding-left:0px;
 }
+
+/* Homepage profile: portrait on the left, name and contact details on the right. */
+.profile-header {
+    display: grid;
+    grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+    align-items: center;
+    column-gap: 3rem;
+    margin: 1.5rem 0 1.75rem;
+}
+
+.profile-portrait {
+    justify-self: center;
+}
+
+.profile-portrait a {
+    display: block;
+    border: none;
+}
+
+.profile-portrait img {
+    display: block;
+    width: 142px;
+    max-width: 100%;
+    height: auto;
+}
+
+.profile-info {
+    min-width: 0;
+    overflow-wrap: break-word;
+}
+
+#layout-content .profile-header h1 {
+    color: #000;
+    font-size: 2rem;
+    line-height: 1.15;
+    margin: 0 0 0.75rem;
+    padding: 0;
+    border: none;
+}
+
+.profile-info p {
+    margin-bottom: 0.6rem;
+}
+
+.profile-info p:last-child {
+    margin-bottom: 0;
+}
+
+@media (max-width: 68rem) {
+    .profile-header {
+        grid-template-columns: minmax(11rem, 1fr) minmax(0, 2fr);
+        column-gap: 2rem;
+    }
+}
+
+@media (max-width: 42rem) {
+    .profile-header {
+        grid-template-columns: minmax(0, 1fr);
+        row-gap: 1.5rem;
+    }
+}
