@@ -401,14 +401,14 @@ foot11
 /* Homepage profile: portrait on the left, name and contact details on the right. */
 .profile-header {
     display: grid;
-    grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+    grid-template-columns: minmax(11rem, 1fr) minmax(max-content, 2fr);
     align-items: center;
-    column-gap: 3rem;
+    column-gap: 2rem;
     margin: 1.5rem 0 1.75rem;
 }
 
 .profile-portrait {
-    justify-self: center;
+    justify-self: end;
     align-self: start;
 }
 
@@ -468,6 +468,10 @@ foot11
     .profile-header {
         grid-template-columns: minmax(11rem, 1fr) minmax(0, 2fr);
         column-gap: 2rem;
+    }
+
+    .profile-portrait {
+        justify-self: center;
     }
 }
 
