@@ -214,6 +214,10 @@ ol {
 	list-style-type: decimal;
 }
 
+.publication-venue {
+	color: #d00000;
+}
+
 li p, dd p {
 	margin-bottom: 0.3em;
 }
