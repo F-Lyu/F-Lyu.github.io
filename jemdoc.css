@@ -410,6 +410,7 @@ foot11
 .profile-portrait {
     justify-self: end;
     align-self: start;
+    margin-right: 2.5rem;
 }
 
 .profile-portrait a {
@@ -472,6 +473,7 @@ foot11
 
     .profile-portrait {
         justify-self: center;
+        margin-right: 0;
     }
 }
 
