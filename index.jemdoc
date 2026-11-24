@@ -1,4 +1,4 @@
-# jemdoc: nodefaultcss, addcss{jemdoc.css?v=ae9b04795dfc}, title{Welcome to Feng Lyu's Homepage}
+# jemdoc: nodefaultcss, addcss{jemdoc.css?v=4283de757218}, title{Welcome to Feng Lyu's Homepage}
 
 ~~~
 {}{raw}
@@ -20,7 +20,12 @@ Director of the End-Edge-Cloud Intelligent Computing Lab</p>
 
 == News
 
-# MedSense provisionally uses Nov. 2026 (current month; not visible in the supplied email screenshot). FairMGRL, A2, MetaNav, A3TP, FedPKD+, and KAT use months confirmed by the user. Remaining News dates use online publication dates; Exploring Cellular uses the Feb. 2026 issue month as a fallback.
+# MedSense provisionally uses Nov. 2026 (current month; not visible in the supplied email screenshot). Scaling LLMs uses its online publication month. All other News months have been confirmed by the user.
+~~~
+{}{raw}
+<div id="homepage-news">
+~~~
+
 - {{Nov. 2026 - Our paper, &quot;MedSense: Metasurface-Enhanced mmWave Sensing for Liquid Medication Verification&quot;, was conditionally accepted by <strong><em>ACM MobiCom 2027</em></strong>. Congratulations to Yeyu!}}
 - {{Nov. 2026 - Our paper, &quot;FairMGRL: Large-Scale USV Dispatching with Different Tasks via Masked Graph Pretraining and Fairness-Aware Decoding&quot;, was accepted by <strong><em>IEEE Transactions on Mobile Computing</em></strong>. Congratulations to Lingzi!}}
 - {{Sep. 2026 - Our paper, &quot;A<sup>2</sup>: Characterizing and Mitigating Imbalanced Reclaim in MGLRU via Active Aging at Production Scale&quot;, was accepted by <strong><em>ACM SIGOPS ATC 2026</em></strong>. Congratulations to Fei!}}
@@ -29,11 +34,17 @@ Director of the End-Edge-Cloud Intelligent Computing Lab</p>
 - {{June 2026 - Our paper, &quot;A3TP: Automated, Accurate, and Adaptive UAV Task Planning for Power Transmission Networks Inspection&quot;, was accepted by <strong><em>ACM MobiCom 2026</em></strong>. Congratulations to Qiyong!}}
 - {{June 2026 - Our paper, &quot;FedPKD<sup>+</sup>: A Prototype-Based Framework for Efficient and Flexible Heterogeneous Federated Learning&quot;, was accepted by <strong><em>IEEE Transactions on Mobile Computing</em></strong>. Congratulations to Tong!}}
 - {{Feb. 2026 - Our paper, &quot;U-Mesh+: Terrain-Aware, Robust, and Cost-Efficient UAV-Mesh Network Deployment for Inspection Tasks in Remote Areas&quot;, was accepted by <strong><em>IEEE Transactions on Networking</em></strong>. Congratulations to Jieyu!}}
-- {{Feb. 2026 - Our paper, &quot;Exploring Cellular User Re-Identification Risks with Networking Behaviors Analysis and Modeling&quot;, was accepted by <strong><em>IEEE Transactions on Mobile Computing</em></strong>. Congratulations to Sijing!}}
 - {{Dec. 2025 - Our paper, &quot;KAT: Knowledge-Context Augmentation for Evolving LLM-Based Telecom Troubleshooting&quot;, was accepted by <strong><em>IEEE INFOCOM 2026</em></strong>. Congratulations to Kai!}}
 - {{Dec. 2025 - Our paper, &quot;Game in Motion: Heterogeneous Task Offloading in Dynamic Vehicular Edge Computing&quot;, was accepted by <strong><em>IEEE Transactions on Networking</em></strong>. Congratulations to Jie!}}
-- {{Nov. 2025 - Our paper, &quot;Auto-UIT: Automating UAV Inspection Trajectory by Recognizing Pylon Structure from 3D Point Cloud&quot;, was accepted by <strong><em>ACM MobiCom 2025</em></strong>. Congratulations to Lijuan!}}
-- {{Nov. 2025 - Our paper, &quot;H2O: Heterogeneity-Aware Hierarchical Orchestration for Memory-Efficient on-Device LLM Inference&quot;, was accepted by <strong><em>IEEE Transactions on Mobile Computing</em></strong>. Congratulations to Fei!}}
+- {{Oct. 2025 - Our paper, &quot;H2O: Heterogeneity-Aware Hierarchical Orchestration for Memory-Efficient on-Device LLM Inference&quot;, was accepted by <strong><em>IEEE Transactions on Mobile Computing</em></strong>. Congratulations to Fei!}}
+- {{Sep. 2025 - Our paper, &quot;Exploring Cellular User Re-Identification Risks with Networking Behaviors Analysis and Modeling&quot;, was accepted by <strong><em>IEEE Transactions on Mobile Computing</em></strong>. Congratulations to Sijing!}}
+- {{June 2025 - Our paper, &quot;Auto-UIT: Automating UAV Inspection Trajectory by Recognizing Pylon Structure from 3D Point Cloud&quot;, was accepted by <strong><em>ACM MobiCom 2025</em></strong>. Congratulations to Lijuan!}}
+
+~~~
+{}{raw}
+</div>
+<script src="news.js?v=1b711bd44558" type="text/javascript"></script>
+~~~
 
 # Research interests are displayed below Email; original section retained.
 # == Research Interests

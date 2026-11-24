@@ -483,3 +483,28 @@ foot11
         row-gap: 1.5rem;
     }
 }
+
+/* Older homepage news is available through a native, keyboard-accessible disclosure. */
+.news-archive > summary {
+    width: fit-content;
+    margin-left: 1.25em;
+    padding: 0.15em 0.25em;
+    color: #224b8d;
+    font-size: 1.2em;
+    font-weight: bold;
+    cursor: pointer;
+    list-style: none;
+}
+
+.news-archive > summary::-webkit-details-marker {
+    display: none;
+}
+
+.news-archive > summary:hover {
+    text-decoration: underline;
+}
+
+.news-archive > summary:focus-visible {
+    outline: 2px solid #527bbd;
+    outline-offset: 2px;
+}
