@@ -484,7 +484,12 @@ foot11
     }
 }
 
-/* Older homepage news is available through a native, keyboard-accessible disclosure. */
+/* News always offers a full-list link, or a disclosure when older entries are folded. */
+.news-more {
+    display: block;
+}
+
+.news-more,
 .news-archive > summary {
     width: fit-content;
     margin-left: 1.25em;
@@ -500,10 +505,13 @@ foot11
     display: none;
 }
 
+.news-more:hover,
 .news-archive > summary:hover {
+    border-bottom: none;
     text-decoration: underline;
 }
 
+.news-more:focus-visible,
 .news-archive > summary:focus-visible {
     outline: 2px solid #527bbd;
     outline-offset: 2px;

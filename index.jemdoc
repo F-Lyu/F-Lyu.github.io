@@ -1,4 +1,4 @@
-# jemdoc: nodefaultcss, addcss{jemdoc.css?v=4283de757218}, title{Welcome to Feng Lyu's Homepage}
+# jemdoc: nodefaultcss, addcss{jemdoc.css?v=74cc06cbdd12}, title{Welcome to Feng Lyu's Homepage}
 
 ~~~
 {}{raw}
@@ -42,8 +42,9 @@ Director of the End-Edge-Cloud Intelligent Computing Lab</p>
 
 ~~~
 {}{raw}
+<a class="news-more" href="news.html" aria-label="Show all news" title="Show all news">...</a>
 </div>
-<script src="news.js?v=1b711bd44558" type="text/javascript"></script>
+<script src="news.js?v=65284f2563fa" type="text/javascript"></script>
 ~~~
 
 # Research interests are displayed below Email; original section retained.

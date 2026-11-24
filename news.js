@@ -20,5 +20,10 @@
         olderNews.appendChild(list.children[15]);
     }
     archive.appendChild(olderNews);
-    section.appendChild(archive);
+    var more = section.querySelector(".news-more");
+    if (more) {
+        section.replaceChild(archive, more);
+    } else {
+        section.appendChild(archive);
+    }
 }());
